@@ -1,6 +1,6 @@
 # Spalanie_GUI
 
-This project is a simple program for calculating the cost of car trip based on (fuel cost, distance, and engine fuel consumption)
+This project is a simple program for calculating the cost of car trip based on fuel cost, distance, and engine fuel consumption
 
 # Technologies
 
